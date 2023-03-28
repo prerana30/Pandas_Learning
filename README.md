@@ -9,4 +9,5 @@ I will be regularly uploading my learning on pandas.
 5. .column -> for column names
 6. .index -> for row number or row names.
 
+I fetched data from a website through api and will try to experiment this data through pandas.
 
